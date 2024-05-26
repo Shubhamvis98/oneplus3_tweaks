@@ -1,0 +1,25 @@
+label: gpt
+label-id: 98101B32-BBE2-4BF2-A06E-2BB33D000C20
+device: /dev/block/sda
+unit: sectors
+first-lba: 6
+last-lba: 14145530
+table-length: 16
+sector-size: 4096
+
+/dev/block/sda1 : start=           6, size=           2, type=2C86E742-745E-4FDD-BFD8-B6A7AC638772, uuid=C6CE7510-9200-DFBC-E011-8BEB9FDCEDD4, name="ssd"
+/dev/block/sda2 : start=           8, size=        8192, type=6C95E238-E343-4BA8-B489-8681ED22AD0B, uuid=AED492BA-2E41-9A0D-DD48-73BD77292759, name="persist"
+/dev/block/sda3 : start=        8200, size=       65536, type=5594C694-C871-4B5F-90B1-690A6F68E0F7, uuid=D02B4E95-BF6D-EBA5-AF91-5ADB1ECC8D4B, name="cache"
+/dev/block/sda4 : start=       73736, size=         256, type=82ACC91F-357C-4A68-9C8F-689E1B1A23A1, uuid=8E2A9A7D-5788-FAC9-5C72-6EBA4C5BAD2C, name="misc"
+/dev/block/sda5 : start=       73992, size=         128, type=DE7D4029-0F5B-41C8-AE7E-F6C023A02B33, uuid=0C1A7EA7-406D-B1E5-056E-5E514FBB6EBC, name="keystore"
+/dev/block/sda6 : start=       74120, size=          32, type=F65D4B16-343D-4E25-AAFC-BE99B6556A6D, uuid=AA6B77AC-56F1-7512-54F7-C1623EB2EE32, name="devcfg"
+/dev/block/sda7 : start=       74152, size=          32, type=F65D4B16-343D-4E25-AAFC-BE99B6556A6D, uuid=EF2C79D7-5DE5-18C8-9A2D-8687B326A57C, name="devcfgbak"
+/dev/block/sda8 : start=       74184, size=         128, type=91B72D4D-71E0-4CBF-9B8E-236381CFF17A, uuid=A46A231F-EF69-5722-6062-E84710E85A9D, name="frp"
+/dev/block/sda9 : start=       74312, size=        2560, type=EBBEADAE-22C9-E33B-8F5D-0E81686A68CC, uuid=BC33FDBA-569D-8D9E-FDC3-B01A4B980FBF, name="oem_dycnvbk"
+/dev/block/sda10 : start=       76872, size=        2560, type=0A288B1E-22C9-E33B-8F5D-0E81686A68CC, uuid=017E315D-CCF9-D31E-4248-A0088D0EFC0B, name="oem_stanvbk"
+/dev/block/sda11 : start=       79432, size=         256, type=6D679BAB-23C7-466E-90AC-A39897C15640, uuid=0F5C1013-DB13-4EBD-8E14-8624EDB03B14, name="param"
+/dev/block/sda12 : start=       79688, size=        2024, type=004A6838-062A-44DF-8152-4F340C052255, uuid=3BE46B02-28B5-618F-00D0-C51DAAE8820D, name="reserve1"
+/dev/block/sda13 : start=       81712, size=        4048, type=004A6838-062A-44DF-8152-4F340C052255, uuid=BDDDD1E8-1244-3F29-9947-307526FF3CFA, name="reserve2"
+/dev/block/sda14 : start=       85760, size=         128, type=04377754-DE64-4ADB-852F-F01E702DF13B, uuid=3A97104C-BB17-32FC-BBA4-67AFD522A592, name="config"
+/dev/block/sda15 : start=       85888, size=    11438203, type=1B81E7E6-F50D-419B-A739-2AEEF8DA3335, uuid=D0878A1A-1309-6841-F03C-83D2BA04135B, name="userdata"
+/dev/block/sda16 : start=       11524091, type=B921B045-1DF0-41C3-AF44-4C6F280D3FAE, name="linux"
